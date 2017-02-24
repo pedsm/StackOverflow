@@ -3,6 +3,6 @@ fn main() {
 }
 
 fn recurse(depth:i32) {
-    println!("This is depth: {}", depth);
+    println!("{}", depth);
     recurse(depth + 1);
 }

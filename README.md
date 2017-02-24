@@ -30,3 +30,4 @@ I don't know it is just an experiment not really much use because if recursion g
 |C        |  261790  |   261790 |
 |Rust     |  52315        |   52315                    |
 |Node.js  |  17932(Max stack size error)    |  17932(Max stack size error)|
+|Java     | 10820    | 10820                |
